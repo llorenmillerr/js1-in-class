@@ -67,19 +67,19 @@
 // console.log(rightNow);
 //
 //
-
-
-
-//"Extra Cred"
-
-function numBetween() {
-  var randNum = Math.round(Math.random()*1000)
-  alert(randNum);
-}
-
-
-
-
+//
+//
+//
+// //"Extra Cred"
+//
+// function numBetween() {
+//   var randNum = Math.round(Math.random()*1000)
+//   alert(randNum);
+// }
+//
+//
+//
+//
 //
 //
 // //EX7
