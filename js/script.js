@@ -82,7 +82,13 @@ console.log(newUser);
 
 
 
+var sayHello = function() {
+  alert('Hello!');
+};
 
+setTimeout(function() {
+  sayHello();
+}, 5000);
 
 
 
